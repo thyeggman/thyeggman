@@ -17,3 +17,7 @@ Hi! I'm Jacob, a developer at GitHub! I previously worked at Microsoft on produc
 - [AppCenter .NET SDK](https://github.com/microsoft/appcenter-sdk-dotnet)
 - [AppCenter Android SDK](https://github.com/microsoft/appcenter-sdk-android)
 - [AppCenter Apple SDK](https://github.com/microsoft/appcenter-sdk-apple)
+
+### Stats
+
+[![thyeggman's github stats](https://github-readme-stats.vercel.app/api?username=thyeggman&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
