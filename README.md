@@ -6,18 +6,7 @@ Hi! I'm Jacob, a developer at GitHub! I previously worked at Microsoft on produc
 
 - [VulgarLang Phonology Settings](https://github.com/thyeggman/vulgarlang-phonology-sets)
 
-### Projects I Contribute To
+### Projects I've Contributed To
 
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) 🎢
 - [CubeCobra](https://github.com/dekkerglen/CubeCobra) 🐍
-
-### Work Stuff
-
-- [AppCenter](https://github.com/microsoft/appcenter)
-- [AppCenter .NET SDK](https://github.com/microsoft/appcenter-sdk-dotnet)
-- [AppCenter Android SDK](https://github.com/microsoft/appcenter-sdk-android)
-- [AppCenter Apple SDK](https://github.com/microsoft/appcenter-sdk-apple)
-
-### Stats
-
-[![thyeggman's github stats](https://github-readme-stats.vercel.app/api?username=thyeggman&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
